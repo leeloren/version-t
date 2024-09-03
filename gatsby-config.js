@@ -1,8 +1,9 @@
 // const {applyxslt} = require('./scripts/applyxslt')
 
 module.exports = {
+  pathPrefix: "/version-t",
   siteMetadata: {
-    title: `Gatsby CETEIcean Workshop`,
+    title: ` La Vie de sainte Marie l’Égyptienne`,
     menuLinks: [
       {
         name: "Home",
