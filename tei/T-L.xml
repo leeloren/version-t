@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model
+href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="T-L" n="London Add. Brit. Mus. 36614">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <respStmt><name>Loren Lee</name><resp><date>2023-11-15</date>scribe</resp></respStmt>
+            </titleStmt>
+            <publicationStmt><p></p></publicationStmt>
+            <sourceDesc><p></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+
+
+    <text>
+        <body>
+            <div>
+
+                <pb n="???"/>
+                    <l> Tot li home &amp; totes les femes.<lb/></l>
+                    <l> Q uuelent pendre penitace.<lb/></l>
+                    <l> doiuent bie escouter la uie.<lb/></l>
+                    <l> d elegipciene marie<lb/></l>
+                    <l> par tot le mot tat co est ample.<lb/></l>
+                    <l> I poieent pendre gnt essample.<lb/></l>
+                    <l> E le fu molt bele &amp; mlt gete.<lb/></l>
+                    <l> &amp; pecha molt en sa iouente.<lb/></l>
+                    <l> Mais puis quele se porpensa.<lb/></l>
+                    <l> A damledeu se retorna.<lb/></l>
+                    <l> &amp; ensable olui sa iosta.<lb/></l>
+                    <l> S i q iamais nen seuerra.<lb/></l>
+                    <l> &amp; tot cil q sa vie orront<lb/></l>
+                    <l> G rat essample predre i porrot.<lb/></l>
+                    <l> bie croi que uolentiers lorrot.<lb/></l>
+                    <l> Cil q damledeu ameront<lb/></l>
+                    <l> Car a ciaus q delui not cure.<lb/></l>
+                    <l> Mout est sa parole aspre &amp; dure.<lb/></l>
+                    <l> Tout cil q lui u?lrot amer. <lb/></l>
+                    <l> &amp; por samor moi escouter<lb/></l>
+                    <l> de madame saite marie<lb/></l>
+                    <l> l egipciene orront la uie<lb/></l>
+                    <l> Car ce sachet tot pecheor<lb/></l>
+                    <l> Q forfait sont aucreator<lb/></l>
+                    <l> Qe nus pechies nest tat pesans.<lb/></l>
+                    <l> Ne tat oribles ne tat grans<lb/></l>
+                    <l> Dont dex ne face uoir pardo<lb/></l>
+                    <l> Parfoi &amp; par cofession<lb/></l>
+                    <l> a ciaus q prenent penitance<lb/></l>
+                    <l> &amp; gardent soi de mescreace<lb/></l>
+                    <l> Se hom guerpit la merchi de<lb/></l>
+                    <l> Cis pechies niert la pardone<lb/></l>
+                    <l> pechies nenest ges creature<lb/></l>
+                    <l> a ins est mehaig de fort nature<lb/></l>
+                    <l> Onques dex ne cria pechie<lb/></l>
+                    <l> Ne porec si a il son sie<lb/></l>
+                    <l> en tox homes a son ostal<lb/></l>
+                    <l> &amp; ses force de faire mal<lb/></l>
+                    <l> Nus hom ne est en ceste uie<lb/></l>
+                    <l> Tant soit sages u nait folie<lb/></l>
+                    <l> Par maites fors neis pechieret<lb/></l>
+                    <l> L i apostee q deu siuerent<lb/></l>
+                    <l> por ce ne puis io meruellier<lb/></l>
+                    <l> Se dolant hom font pechier<lb/></l>
+                    <l> mais de celui ai gnt meruelle<lb/></l>
+                    <l> Q tostans dort &amp; ne ses uelle<lb/></l>
+                    <l> &amp; en ses ors pechies se dort<lb/></l>
+                    <l> Tant qe il set au cuer la mort<lb/></l>
+                    <l> Qnt il se muert &amp; il la sent<lb/></l>
+                    <l> donqes dist il ie me repent<lb/></l>
+                    <l> a tart a pris le repentir<lb/></l>
+                    <l> Qnt il est venus au morir<lb/></l>
+                    <l> Se lonc le dit fait augustin<lb/></l>
+                    <l> Nest mie bon cele fin<lb/></l>
+                    <l> Car qnt li carcis sent la mort<lb/></l>
+                    <l> Il ne puet faire droit ne tort<lb/></l>
+                    <l> Guerpit le mal liniquite<lb/></l>
+                    <l> Car il ne a mais poeste<lb/></l>
+                    <l> Se plus ieust de sa uie<lb/></l>
+                    <l> Encor fesist il la folie<lb/></l>
+                    <l> Qnt larme senuait miserine<lb/></l>
+                    <l> Q li puet faire medecine<lb/></l>
+                    <l> N e mais foes dex q la cria<lb/></l>
+                    <l> C e ql a fait ce trouera<lb/></l>
+                    <l> de ma dame faite marie<lb/></l>
+                    <l> l egipciene uos uuel dire<lb/></l>
+                    <l> Egipciene por ce est dite<lb/></l>
+                    <l> Qe ele fu nee degipte<lb/></l>
+                    <l> I lluec fu nee &amp; bautizie<lb/></l>
+                    <l> M ais maleniet fu ensegnie<lb/></l>
+                    <l> C ar legiere fu des enfance<lb/></l>
+                    <l> h onte perdi &amp; a ma ance<lb/></l>
+                    <l> T ant ert esprise de luxure<lb/></l>
+                    <l> Qe dautre chose nauoit cure<lb/></l>
+                    <l> P oroe qele estoit bele &amp; gente<lb/></l>
+                    <l> S efioit tat ensaiouete<lb/></l>
+                    <l> Te stot faisoit le sien pl aisir<lb/></l>
+                    <l> Ne li mebroit pas demorir<lb/></l>
+                    <l> Dedeus paraens ne se gardoit<lb/></l>
+                    <l> a toz homes sabandonoit<lb/></l>
+                    <l> Nespoir qe fust en ceste uie<lb/></l>
+                    <l> f eme de plus gnt legerie<lb/></l>
+                    <l> p ere &amp; mere li uiuoient<lb/></l>
+                    <l> p orpoi deduel ql ne moroiet<lb/></l>
+                    <l> I l la uoloiet chastoier<lb/></l>
+                    <l> M ais ele nesprisoit un denier<lb/></l>
+                    <l> Nepsoit chastz de parent<lb/></l>
+                    <l> P lus qe fesist tespas deuet<lb/></l>
+                    <l> F ille ce li disoit la mere<lb/></l>
+                    <l> C ar croi le coseil de to pere<lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> En la forest sen est entree<lb/></l>
+                    <l> Marie uait par la gastine<lb/></l>
+                    <l> souent deprie la roine<lb/></l>
+                    <l> Qe ele auoit mis en ostage<lb/></l>
+                    <l> T e toz ancors deuat limage<lb/></l>
+                    <l> par sa merci ne la guerpisse<lb/></l>
+                    <l> &amp; del diable le garisse<lb/></l>
+                    <l> Illuec est tote sa fiance<lb/></l>
+                    <l> Or comence sa penitance<lb/></l>
+                    <l> El na talent de repentir<lb/></l>
+                    <l> Ais se laioit de faim morir<lb/></l>
+                    <l> El na qe deus pais &amp; demj<lb/></l>
+                    <l> OR ait jhu merci deli<lb/></l>
+                    <l> d e chou ne uiura ele mie<lb/></l>
+                    <l> Se dex ne li fait autre aie<lb/></l>
+                    <l> par le gast uait gnt aleure<lb/></l>
+                    <l> Ele a en deu tote sa cure<lb/></l>
+                    <l> mais qnt ele a fait sa iornee<lb/></l>
+                    <l> Soz un ombre sest a coutee<lb/></l>
+                    <l> Vn petit manga de son pain<lb/></l>
+                    <l> puis sen dormi dusqe au demai<lb/></l>
+                    <l> l endemai leua par matin<lb/></l>
+                    <l> Vers oeiet tint son cemin<lb/></l>
+                    <l> Tant ala par ior &amp; par nuit<lb/></l>
+                    <l> o faim o sor &amp; o dur lit<lb/></l>
+                    <l> Qe parfont fu ens el boschage<lb/></l>
+                    <l> T ote deuint iluec sauuage<lb/></l>
+                    <l> Mais ele ne soblioit mie<lb/></l>
+                    <l> d edeu seruir .&amp; saite marie<lb/></l>
+                    <l> Souet limebre de limage<lb/></l>
+                    <l> Qe ele auoit mis en ostage<lb/></l>
+                    <l> Si drapel eret tot use<lb/></l>
+                    <l> &amp; si soller tot depane<lb/></l>
+                    <l> Qnt li drapel furet rompu<lb/></l>
+                    <l> L i cors de li paru tot nu<lb/></l>
+                    <l> L a cars deli mua color<lb/></l>
+                    <l> Q aisert blance come flor<lb/></l>
+                    <l> Qe par li uer qe par leste<lb/></l>
+                    <l> Tot li noircirent li coste<lb/></l>
+                    <l> Color mua la bloie crine<lb/></l>
+                    <l> Color mua co blace hermine<lb/></l>
+                    <l> d esus la face fu brulee<lb/></l>
+                    <l> d el soleil &amp; de la grelee<lb/></l>
+                    <l> l a bouce li fu atenuie<lb/></l>
+                    <l> &amp; en uiro la chars noirci<lb/></l>
+                    <l> Tant par auoit noir le meton<lb/></l>
+                    <l> co ce fust li chief dein tison<lb/></l>
+                    <l> a tenuie furet li oeil<lb/></l>
+                    <l> Ni auoit ore poit dorgueil<lb/></l>
+                    <l> Se uos en ueissies lorelle<lb/></l>
+                    <l> Mlt uos empsist gnt meruelle<lb/></l>
+                    <l> car noire estoit tote creuee<lb/></l>
+                    <l> &amp; de blans poils tote meslee<lb/></l>
+                    <l> Noire &amp; mossue ert la poitne<lb/></l>
+                    <l> &amp; escorce sambloit despine<lb/></l>
+                    <l> Nauoit plus char ensontant<lb/></l>
+                    <l> Ne pl que il a en un gant<lb/></l>
+                    <l> L es bras les mais &amp; les los dois<lb/></l>
+                    <l> a uoit plus noirs qe nule pois<lb/></l>
+                    <l> l es ongles auoit ele genz<lb/></l>
+                    <l> c ar elles tailloit a ses dens<lb/></l>
+                    <l> l i uentres li ert toz chaoiz<lb/></l>
+                    <l> R ie ne mangoit il estoit droiz<lb/></l>
+                    <l> l ipie li eret de crue<lb/></l>
+                    <l> e mplusors lius eret naure<lb/></l>
+                    <l> Qar el nes gardoit des espines<lb/></l>
+                    <l> Qnt ele aloit par la gastines<lb/></l>
+                    <l> C eliert uis son escient<lb/></l>
+                    <l> &amp; ele ni faloit noient<lb/></l>
+                    <l> Qvn de ses pechies li chaoit<lb/></l>
+                    <l> Qnt<lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+
+            </div>
+        </body>
+    </text>
+</TEI>
