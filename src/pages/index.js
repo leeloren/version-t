@@ -26,7 +26,6 @@ const Index = () => {
           {teifiles.map(file => (
             <li><Link to={file.parent.name}>{file.parent.name}</Link></li>
           ))}
-        <li><Link to="verovio">Verovio example</Link></li>
         </ul>
       </div>
     </Layout>
